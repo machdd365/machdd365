@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Now studying JS for learn React.
+
 <!--
 **machdd365/machdd365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
